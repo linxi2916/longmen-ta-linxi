@@ -97,3 +97,10 @@ To https://github.com/linxi2916/longmen-ta-linxi.git
    ae23393..b7c7f6b  main -> main
 [周四 2026/04/23 23:00:06.78] 上传成功 
 [周五 2026/04/24 23:00:02.21] === 开始每日上传 (260424) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main 6d18088] 每日上传 260424 - 林喜
+ 1 file changed, 7 insertions(+)
+To https://github.com/linxi2916/longmen-ta-linxi.git
+   b7c7f6b..6d18088  main -> main
+[周五 2026/04/24 23:00:09.14] 上传成功 
+[周日 2026/04/26 23:00:02.33] === 开始每日上传 (260426) === 
