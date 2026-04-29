@@ -110,3 +110,8 @@ warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by
 fatal: unable to access 'https://github.com/linxi2916/longmen-ta-linxi.git/': schannel: failed to receive handshake, SSL/TLS connection failed
 [周日 2026/04/26 23:00:03.90] 上传失败，请检查网络连接或联系管理员 
 [周二 2026/04/28 23:00:02.22] === 开始每日上传 (260428) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main c8ef625] 每日上传 260428 - 林喜
+ 1 file changed, 6 insertions(+)
+error: failed to push some refs to 'https://github.com/linxi2916/longmen-ta-linxi.git'
+^C[周三 2026/04/29 23:00:02.00] === 开始每日上传 (260429) === 
