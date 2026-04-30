@@ -115,3 +115,10 @@ warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by
  1 file changed, 6 insertions(+)
 error: failed to push some refs to 'https://github.com/linxi2916/longmen-ta-linxi.git'
 ^C[周三 2026/04/29 23:00:02.00] === 开始每日上传 (260429) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main 1b14c8f] 每日上传 260429 - 林喜
+ 1 file changed, 5 insertions(+)
+To https://github.com/linxi2916/longmen-ta-linxi.git
+   c8ef625..1b14c8f  main -> main
+[周三 2026/04/29 23:00:08.33] 上传成功 
+[周四 2026/04/30 23:00:02.35] === 开始每日上传 (260430) === 
