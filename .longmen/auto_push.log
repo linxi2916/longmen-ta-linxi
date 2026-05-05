@@ -150,3 +150,9 @@ To https://github.com/linxi2916/longmen-ta-linxi.git
    077b288..e4aa292  main -> main
 [周日 2026/05/03 23:00:06.54] 上传成功 
 [周一 2026/05/04 23:00:02.26] === 开始每日上传 (260504) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main 9928237] 每日上传 260504 - 林喜
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/linxi2916/longmen-ta-linxi.git/': Connection timed out after 300014 milliseconds
+[周一 2026/05/04 23:05:03.61] 上传失败，请检查网络连接或联系管理员 
+[周二 2026/05/05 23:00:02.37] === 开始每日上传 (260505) === 
