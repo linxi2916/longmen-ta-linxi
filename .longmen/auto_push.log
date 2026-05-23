@@ -247,3 +247,9 @@ To https://github.com/linxi2916/longmen-ta-linxi.git
    016ad7f..41c61a7  main -> main
 [周二 2026/05/19 23:00:10.68] 上传成功 
 [周四 2026/05/21 23:00:02.79] === 开始每日上传 (260521) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main dfe6a5f] 每日上传 260521 - 林喜
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/linxi2916/longmen-ta-linxi.git/': Failed to connect to github.com port 443 via 127.0.0.1 after 2096 ms: Could not connect to server
+[周四 2026/05/21 23:00:06.50] 上传失败，请检查网络连接或联系管理员 
+[周六 2026/05/23 23:00:03.08] === 开始每日上传 (260523) === 
