@@ -307,3 +307,10 @@ fatal: the remote end hung up unexpectedly
 Everything up-to-date
 [周六 2026/05/30 23:00:30.86] 上传失败，请检查网络连接或联系管理员 
 [周日 2026/05/31 23:00:02.46] === 开始每日上传 (260531) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main d3b281e] 每日上传 260531 - 林喜
+ 1 file changed, 9 insertions(+)
+To https://github.com/linxi2916/longmen-ta-linxi.git
+   ecf62c8..d3b281e  main -> main
+[周日 2026/05/31 23:00:21.85] 上传成功 
+[周二 2026/06/02 23:00:02.25] === 开始每日上传 (260602) === 
