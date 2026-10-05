@@ -644,3 +644,9 @@ To https://github.com/linxi2916/longmen-ta-linxi.git
    b8f34e0..68fdad7  main -> main
 [周二 2026/09/29 23:00:14.42] 上传成功 
 [周三 2026/09/30 23:11:02.25] === 开始每日上传 (~2,2%dt:~4,2%dt:~6,2) === 
+warning: in the working copy of '.longmen/auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main 9213050] 每日上传 ~2,2%dt:~4,2%dt:~6,2 - 林喜
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/linxi2916/longmen-ta-linxi.git/': schannel: failed to receive handshake, SSL/TLS connection failed
+[周三 2026/09/30 23:11:09.33] 上传失败，请检查网络连接或联系管理员 
+[周一 2026/10/05 23:00:02.54] === 开始每日上传 (~2,2%dt:~4,2%dt:~6,2) === 
